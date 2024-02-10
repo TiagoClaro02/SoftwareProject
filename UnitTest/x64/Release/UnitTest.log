@@ -1,0 +1,5 @@
+﻿  test.cpp
+  Game.obj : MSIL .netmodule ou módulo compilado com /GL encontrado; reiniciando link com /LTCG; adicione /LTCG ao link da linha de comando para melhorar performance do vinculador
+  Gerando código
+  Finalizada a geração de código
+  UnitTest.vcxproj -> C:\Users\jmc_o\Desktop\PSW\a02_3\MainProject_server\x64\Release\UnitTest.exe

@@ -1,0 +1,4 @@
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_server\x64\Debug\MainProject_server.exe
+C:\Users\Utilizador\Documents\quarto ano\projeto de software\a02_3\MainProject_server\x64\Debug\MainProject_server.exe
+C:\Users\Rafael\Desktop\A4_S1\PS\Projeto\code\a02_3\MainProject_server\x64\Debug\MainProject_server.exe
+C:\Users\jmc_o\Desktop\PSW\a02_3\MainProject_server\x64\Debug\MainProject_server.exe

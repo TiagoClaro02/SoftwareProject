@@ -1,0 +1,16 @@
+﻿  Account.cpp
+  Card.cpp
+  Dealer.cpp
+  Deck.cpp
+  Gambler.cpp
+  Game.cpp
+  Hand.cpp
+  Main.cpp
+  network.cpp
+  Server.cpp
+  Shoe.cpp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 568 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  MainProject.vcxproj -> C:\Users\jmc_o\Desktop\PSW\a02_3\MainProject_server\x64\Release\MainProject_server.exe

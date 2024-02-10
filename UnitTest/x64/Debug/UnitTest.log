@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  test.cpp
+test.obj : error LNK2019: símbolo externo não resolvido, "public: __cdecl Hand::Hand(void)" (??0Hand@@QEAA@XZ), referenciado na função "public: __cdecl Dealer::Dealer(void)" (??0Dealer@@QEAA@XZ)
+test.obj : error LNK2019: símbolo externo não resolvido, "public: int __cdecl Hand::getNumCards(void)" (?getNumCards@Hand@@QEAAHXZ), referenciado na função "private: virtual void __cdecl GameInitTests_InitializationSuccessTest_Test::TestBody(void)" (?TestBody@GameInitTests_InitializationSuccessTest_Test@@EEAAXXZ)
+test.obj : error LNK2019: símbolo externo não resolvido, "public: class std::vector<class Card,class std::allocator<class Card> > __cdecl Shoe::getPile(void)" (?getPile@Shoe@@QEAA?AV?$vector@VCard@@V?$allocator@VCard@@@std@@@std@@XZ), referenciado na função "private: virtual void __cdecl GameInitTests_InitializationSuccessTest_Test::TestBody(void)" (?TestBody@GameInitTests_InitializationSuccessTest_Test@@EEAAXXZ)
+test.obj : error LNK2019: símbolo externo não resolvido, "public: void __cdecl Game::init(double)" (?init@Game@@QEAAXN@Z), referenciado na função "private: virtual void __cdecl GameInitTests_InitializationSuccessTest_Test::TestBody(void)" (?TestBody@GameInitTests_InitializationSuccessTest_Test@@EEAAXXZ)
+C:\Users\jmc_o\Desktop\PSW\a02_3\UnitTest\x64\Debug\UnitTest.exe : fatal error LNK1120: 4 externo não resolvidos

@@ -1,0 +1,193 @@
+﻿  Button.cpp
+  Client.cpp
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(163,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(163,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(166,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(166,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(169,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(169,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(172,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(172,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(175,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(175,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(178,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(178,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(181,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(181,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(184,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(184,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(549,60): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(549,60): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(549,60): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(549,60): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(549,60): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(569,60): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(569,60): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(569,60): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(569,60): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(569,60): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(589,60): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(589,60): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(589,60): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(589,60): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(589,60): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(608,60): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(608,60): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(608,60): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(608,60): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(608,60): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(634,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(634,59): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(634,59): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(634,59): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(634,59): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(857,60): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(857,60): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(857,60): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(857,60): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(857,60): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(877,60): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(877,60): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(877,60): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(877,60): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(877,60): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(897,60): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(897,60): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(897,60): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(897,60): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(897,60): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(916,60): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(916,60): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(916,60): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(916,60): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(916,60): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(942,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(942,59): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(942,59): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(942,59): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(942,59): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1087,114): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1087,114): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1087,114): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1087,114): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1087,114): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1088,110): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1088,110): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1088,110): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1088,110): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1088,110): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1089,116): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1089,116): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1089,116): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1089,116): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1089,116): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1090,124): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1090,124): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1090,124): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1090,124): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1090,124): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1091,110): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1091,110): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1091,110): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1091,110): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1091,110): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1092,114): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1092,114): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1092,114): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1092,114): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1092,114): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1093,112): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1093,112): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1093,112): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1093,112): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1093,112): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1111,96): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1111,96): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1111,96): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1111,96): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1111,96): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1126,103): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1126,103): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1126,103): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1126,103): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1126,103): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1132,99): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1132,99): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1132,99): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1132,99): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1132,99): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1138,105): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1138,105): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1138,105): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1138,105): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1138,105): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1144,99): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1144,99): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1144,99): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1144,99): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1144,99): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1150,113): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1150,113): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1150,113): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1150,113): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1150,113): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1156,101): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1156,101): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1156,101): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1156,101): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1156,101): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1162,103): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1162,103): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1162,103): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1162,103): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1162,103): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1168,103): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1168,103): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1168,103): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1168,103): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1168,103): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,93): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,93): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,93): warning C4244:             T=unsigned int
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,93): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,93): warning C4244:         and
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,93): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,93): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,93): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,73): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,73): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,73): warning C4244:             T=unsigned int
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,73): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,73): warning C4244:         and
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,73): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,73): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(1594,73): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(2021,85): warning C4244: 'argument': conversion from 'unsigned __int64' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(2021,85): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(2021,85): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(2021,85): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(2021,85): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(2036,87): warning C4244: 'argument': conversion from 'unsigned __int64' to 'T', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(2036,87): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(2036,87): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(2036,87): warning C4244:             T=float
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\Client.cpp(2036,87): warning C4244:         ]
+  Main.cpp
+  TextBox.cpp
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\TextBox.cpp(145,18): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\TextBox.cpp(145,18): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\TextBox.cpp(145,18): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\TextBox.cpp(145,18): warning C4244:             T=int
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\TextBox.cpp(145,18): warning C4244:         ]
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\TextBox.cpp(146,18): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\TextBox.cpp(146,18): warning C4244:         with
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\TextBox.cpp(146,18): warning C4244:         [
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\TextBox.cpp(146,18): warning C4244:             T=int
+C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\TextBox.cpp(146,18): warning C4244:         ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 419 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MainProject.vcxproj -> C:\Users\tmcla\Documents\FEUP\4.º ano\Projeto Software\a02_3\MainProject_client\x64\Release\MainProject_client.exe
